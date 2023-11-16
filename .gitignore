@@ -1,0 +1,6 @@
+/test/
+/venv/
+/build/
+/dist/
+opus-stitcher.spec
+pip.spec
