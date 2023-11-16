@@ -13,6 +13,8 @@ For `u/MarkPugnerIII` on reddit.
 Nope. Pyinstaller hates me today. Might try again later.
 
 or
+
+Make sure you have `ffmpeg` installed.
 1. `git clone` this repo.
 2. `pip install -r requirements.txt`
 3. `python main.py`
